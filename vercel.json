@@ -10,7 +10,7 @@
     "routes": [
         {
             "src": "/(.*)",
-            "dest": "ec/app/static/templates/home.html"
+            "dest": "ec/wsgi.py"
         }
     ]
 }
